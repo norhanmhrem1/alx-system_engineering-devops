@@ -1,2 +1,2 @@
-#!/bin/basih
-tr "c,C" -d
+#!/bin/bash
+tr -d "c,C"
